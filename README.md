@@ -14,9 +14,6 @@
     <em>Microcontrollers • Real-time Systems • Embedded C/C++ • IoT • Computer Vision</em>
   </p>
   
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Si6gma&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
 </div>
 
 <!-- About Section -->
@@ -143,7 +140,6 @@ struct Engineer {
 
 <!-- Contribution Snake -->
 <div align="center"> 
-  ## 🐍 Contribution Snake
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
