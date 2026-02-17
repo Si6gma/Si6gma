@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <!-- Tagline -->
-  <h3>⚡ Turning hardware ideas into working prototypes ⚡</h3>
+  <h3>Turning hardware ideas into working prototypes</h3>
   
   <p>
     <em>Microcontrollers • Real-time Systems • Embedded C/C++ • IoT • Computer Vision</em>
@@ -17,7 +17,7 @@
 </div>
 
 <!-- About Section -->
-## 🚀 About Me
+## About Me
 
 ```c
 struct Engineer {
@@ -29,14 +29,14 @@ struct Engineer {
 };
 ```
 
-- 🔭 Currently working on **Rally Telemetry Systems** & **Embedded Control Projects**
-- 🌱 Learning **Real-time Operating Systems** and **Hardware-in-the-Loop Testing**
-- 👯 Open to collaborating on **IoT**, **Robotics**, and **Embedded Systems** projects
-- 💬 Ask me about **Arduino**, **ESP32**, **OpenCV**, or **racing telemetry**
-- ⚡ Fun fact: I once built a laser turret that tracks faces! 😄
+- Currently working on **Rally Telemetry Systems** & **Embedded Control Projects**
+- Learning **Real-time Operating Systems** and **Hardware-in-the-Loop Testing**
+- Open to collaborating on **IoT**, **Robotics**, and **Embedded Systems** projects
+- Ask me about **Arduino**, **ESP32**, **OpenCV**, or **racing telemetry**
+- Fun fact: I once built a laser turret that tracks faces!
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="left">
@@ -67,14 +67,14 @@ struct Engineer {
 </p>
 
 <!-- Featured Projects -->
-## 🔥 Featured Projects
+## Featured Projects
 
 <div align="center">
 <!-- Project 1 -->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎯 Laser Turret</h3>
+      <h3 align="center">Laser Turret</h3>
       <div align="center">
         <a href="https://github.com/Si6gma/LaserTurret">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -85,7 +85,7 @@ struct Engineer {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🏎️ Rally Telemetry</h3>
+      <h3 align="center">Rally Telemetry</h3>
       <div align="center">
         <a href="https://github.com/Si6gma/rallyTelemetry">
           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -98,7 +98,7 @@ struct Engineer {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎹 Piano Sound Board</h3>
+      <h3 align="center">Piano Sound Board</h3>
       <div align="center">
         <a href="https://github.com/Si6gma/PianoSoundBoard">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -108,7 +108,7 @@ struct Engineer {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔬 CureCraft Labs</h3>
+      <h3 align="center">CureCraft Labs</h3>
       <div align="center">
         <a href="https://https://github.com/Si6gma/CureCraft-Labs">
           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -122,7 +122,7 @@ struct Engineer {
 </div>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Si6gma&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
