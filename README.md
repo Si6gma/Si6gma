@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=Si6gma;Embedded+Systems+Engineer;Hardware+%26+Software;Real-Time+Systems;Telemetry+%26+Control" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=FF0048&color=8A00FF&center=true&vCenter=true&width=500&lines=Si6gma;Embedded+Systems+Engineer;Hardware+%26+Software;Real-Time+Systems;Telemetry+%26+Control" alt="Typing Animation" />
   
   <!-- Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
