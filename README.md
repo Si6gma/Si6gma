@@ -73,7 +73,6 @@ struct Engineer {
 ## 🔥 Featured Projects
 
 <div align="center">
-
 <!-- Project 1 -->
 <table>
   <tr>
@@ -123,76 +122,38 @@ struct Engineer {
     </td>
   </tr>
 </table>
-
 </div>
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Si6gma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si6gma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
 </div>
 
 <div align="center">
-  
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Si6gma&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Si6gma&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-  
 </div>
 
 <!-- Contribution Snake -->
-<div align="center">
-  
+<div align="center"> 
   ## 🐍 Contribution Snake
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
-  
-</div>
-
-<!-- Connect Section -->
-## 🌐 Let's Connect
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Si6gma)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neiv.malaviya@gmail.com)
-  
 </div>
 
 <!-- Footer -->
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dabab6800-a447-11eb-908a-139a6edaec5c.gif">
-  
   <p>
     <em>"The best way to predict the future is to implement it."</em> — David Heinemeier Hansson
   </p>
-  
-  <!-- Made with love -->
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Powered%20by-Caffeine-brown?style=flat-square&logo=buy-me-a-coffee" />
-  <img src="https://img.shields.io/badge/Engineering%20Mode-ON-blue?style=flat-square" />
-  
 </div>
-
-<!--
-  Note: To use this README in your profile:
-  1. Create a new repository named "Si6gma" (matching your username exactly)
-  2. Make it public
-  3. Add this README.md file to it
-  4. The profile README will automatically appear on your GitHub profile!
--->
